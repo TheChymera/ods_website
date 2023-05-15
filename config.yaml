@@ -4,8 +4,6 @@ languageCode: "en-us"
 
 title: "Open Data Symposium"
 
-# googleAnalytics: ""
-
 summaryLength: 20
 
 params:
@@ -14,7 +12,7 @@ params:
   images: 
     - "images/hero-image.png"
 
-  logo: "arrow-up.png"
+  logo: "images/logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -28,14 +26,13 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Address where we hold this"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "someone@emailcom"
+    - "someone.else@emailcom"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "The Open Data Symposium Organizers"
 
   postProcess: false
 
